@@ -24,11 +24,8 @@ Y:/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/obj/Debug/netstan
 /Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/obj/Debug/netstandard2.0/GameTheory.dll
 /Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/obj/Debug/netstandard2.0/GameTheory.pdb
 /Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/bin/Debug/netstandard2.0/GameTheory.deps.json
-/Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/bin/Debug/netstandard2.0/GameTheory.dll
 /Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/bin/Debug/netstandard2.0/GameTheory.pdb
-/Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/bin/Debug/netstandard2.0/NodeCounter.dll
-/Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/bin/Debug/netstandard2.0/NodeCounter.pdb
-/Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/obj/Debug/netstandard2.0/GameTheory.fsproj.CopyComplete
+/Users/omar/GoogleDrive/QUT/Year3/Semester1/CAB402/Assignment1/TicTacToe/GameTheory/obj/Debug/netstandard2.0/GameTheory.fsproj.CoreCompileInputs.cache
 Y:\Assignment1\TicTacToe\GameTheory\bin\Debug\netstandard2.0\GameTheory.deps.json
 Y:\Assignment1\TicTacToe\GameTheory\bin\Debug\netstandard2.0\GameTheory.dll
 Y:\Assignment1\TicTacToe\GameTheory\bin\Debug\netstandard2.0\GameTheory.pdb
